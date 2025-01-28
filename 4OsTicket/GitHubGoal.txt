@@ -1,0 +1,1 @@
+The goal of this exercise is to demonstrate experience with Azure, OSTicket, and frontend/backend experience of a ticketing system. We will also further our understanding of Ticket Properties, SLAs, Departments, Permissions, and Users.
